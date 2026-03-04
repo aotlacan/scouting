@@ -15,7 +15,8 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026ilch",
+      "defaultValue": "2026mimil",
+      "disabled": "true",
       "required": "true"
     },
     { "name": "Match Level",

@@ -224,6 +224,12 @@ input {
     background-color: white;
 }
 
+input:disabled {
+    background-color: #d3d3d3;
+    color: #666666;
+    cursor: not-allowed;
+}
+
 .title {
     width: "50%";
     text-align: right;
